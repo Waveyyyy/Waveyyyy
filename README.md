@@ -1,9 +1,9 @@
 ### Hi there, I'm Callum, [Waves/Waveyyyy/some variation of Wave(x)](https://wavess.xyz)
 
-## I'm an Ethical Hacking student, currently interested in Reverse Engineering, Malware Analysis and Programming.
-- 🔭 I’m currently working on: Mostly university stuff, very busy with little free time for personal projects
-- 🌱 I’m currently learning Reverse Engineering, Programming,  and pretty much anything else that sparks my interest.
-- 🤔 I’m looking for help with finding resources for furthering my knowledge in binex, RE, etc.
+## I'm a Cyber Security Analyst, currently interested in Reverse Engineering, Malware Analysis and Programming.
+- 🔭 I’m currently working on: Improving my understanding of C-like languages, Assembly, and Reverse Engineering.
+- 🌱 I’m currently learning: Reverse Engineering, Programming, and Malware Analysis.
+- 🤔 I’m looking for help with finding resources for: C/C++, Reverse Engineering and Malware Analysis.
 - 📫 How to reach me: Through my [Twitter](https://twitter.com/ItsWavey_) preferably or my email, wavess@wavess.xyz
 - 😄 Pronouns: They/Them
 ### Connect with me:
