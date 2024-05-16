@@ -9,7 +9,7 @@
 ### Connect with me:
 
 <!--Website-->
-[<img align="left" alt="wavess.xyz" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](https://waves.xyz)
+[<img align="left" alt="wavess.xyz" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](https://wavess.xyz)
 
 <!--Twitter-->
 [<img align="left" alt="ItsWavey_" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg"/>](https://twitter.com/ItsWavey_)
